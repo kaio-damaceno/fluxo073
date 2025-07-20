@@ -6,7 +6,8 @@ const HeroSection: React.FC = () => {
        <div className="absolute inset-0 bg-black/70 backdrop-blur-sm"></div>
        <div className="relative z-10 text-center px-4 flex flex-col items-center">
             <img 
-                src="favicon.png" 
+                src="https://i.imgur.com/nuuNvz7.png" 
+                href= "https://i.imgur.com/nuuNvz7.png"
                 alt="Fluxo 073 Logo" 
                 className="w-full max-w-[280px] sm:max-w-sm md:max-w-md lg:max-w-lg mb-6 sm:mb-8 animate-fade-in-up"
                 style={{animationDelay: '0.2s', opacity: 0}}
