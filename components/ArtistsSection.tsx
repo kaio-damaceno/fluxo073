@@ -60,7 +60,7 @@ const ArtistsSection: React.FC = () => {
           <div className="grid grid-cols-1 lg:grid-cols-5 gap-8 lg:gap-12 items-center">
             <div className="lg:col-span-3">
               <img 
-                src="https://i.imgur.com/nuuNvz7.png" 
+                src="https://i.imgur.com/hF7oKzh.png" 
                 alt="Flyer do Evento Fluxo 073 com DJ MT de Aracruz"
                 className="w-full h-auto rounded-lg shadow-2xl border-2 border-red-500/30 object-cover"
               />
